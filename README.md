@@ -1,8 +1,17 @@
-Hallo
+# This is an awesom md
 
-```
-code1
-code2
+You can do all kind of things here:
+
+Like 
+
+> quote
+>
+
+or code 
+```javascript
+console.log('hello World)
 ```
 
-![Alt text](./test_image.png)
+or add images
+
+![Alt text](./what-huh.gif)
