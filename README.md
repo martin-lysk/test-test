@@ -1,17 +1,10 @@
 # This is an awesom md
-
 You can do all kind of things here:
-
-Like 
-
-> quote
->
-
-or code 
+Like
+> quotesdasd
+or code
 ```javascript
-console.log('hello World)
+assadsconsole.log('hello World)
 ```
-
 or add images
-
 ![Alt text](./what-huh.gif)
