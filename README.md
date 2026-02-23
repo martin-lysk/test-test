@@ -14,8 +14,8 @@ console.log('hello World)
 
 or add images
 
-- asdsadsd
-d
+- asdsadsds
+ddd
 
 ![Alt text](./what-huh.gif)
 
