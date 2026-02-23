@@ -2,7 +2,7 @@
 
 You can do all kind of thdings here:
 
-Like
+Likea
 
 > quoteasdasdasdasadasdsd
 or code
@@ -14,7 +14,7 @@ console.log('hello World)
 
 or add images
 
-- asdsadsds
+- [ ] asdsadsds
 ddds
 
 ![Alt text](./what-huh.gif)
