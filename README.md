@@ -1,6 +1,6 @@
 # This is an awesom md
 
-You can do all kind of things here:
+You can do all kind of thdings here:
 
 Like
 
