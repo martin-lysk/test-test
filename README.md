@@ -1,17 +1,10 @@
-# This is an awesom md
-
-You can do all kind of things here:
-
-Like 
-
-> quote
->
-
-or code 
+# This is an TESTSTEST md
+You can do all kind of tasdasfashings here:
+Like
+> quotesdasdasfasf
+or codesadsad
 ```javascript
-console.log('hello World)
+assadsconsole.log('hello World)
 ```
-
 or add images
-
 ![Alt text](./what-huh.gif)
