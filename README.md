@@ -1,4 +1,4 @@
-# This is an awesom md
+# This is an awesom mds
 
 You can do all kind of things here:
 
