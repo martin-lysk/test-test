@@ -6,7 +6,7 @@ Like
 
 > quote
 
-or code
+or codes
 
 
 ```javascript
